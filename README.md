@@ -34,8 +34,9 @@ Record a short video of your story to display here on your README. You can do th
 [![Thumbnail for my projet](gswlogo.png)]((https://youtu.be/VUwH3LMwriQ))
 
 ## Story Description
-
-Write a description of the story that your animation showcases. Give addional context for your story here in the case your animation is more abstract and only has images and little text. Lastly, include what data in your project is represented in 2D arrays and how those directly relate to the story your animation showcase.
+My story showcases the 2017 prime Golden State Warriors Team and their best players. I chose this because they are my all-time favorite team and it they motivated me to improve my basketball skills. The data in my project that is represented in 2D arrays are the player names, player nicknames, and the images of each player. These are represented in my story using images and text.
 ## Image Filter Analysis
 
-Choose at least 2 filters uses in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
+1. Contrast Adjustment: The adjustContrast method changes the intensity of an image's colors by multiplying the red, green, and blue values by a multiplier. A higher multiplier makes the image brighter with more contrast, while a lower multiplier darkens the image. This adjusts the image by making it more vibrant or subtle
+
+2. Grayscale: The applyGray method converts the image to grayscale by taking the average of the red, green, and blue pixels and applying the result to all colors, removing color from the image, leaving only gray.
