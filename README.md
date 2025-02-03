@@ -33,6 +33,8 @@ Record a short video of your story to display here on your README. You can do th
 
 [![Thumbnail for my projet](gswlogo.png)]((https://youtu.be/VUwH3LMwriQ))
 
+Link if the thumbnail doesn't work: https://youtu.be/VUwH3LMwriQ
+
 ## Story Description
 My story showcases the 2017 prime Golden State Warriors Team and their best players. I chose this because they are my all-time favorite team and it they motivated me to improve my basketball skills. The data in my project that is represented in 2D arrays are the player names, player nicknames, and the images of each player. These are represented in my story using images and text.
 ## Image Filter Analysis
